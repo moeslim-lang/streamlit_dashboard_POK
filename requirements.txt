@@ -1,0 +1,13 @@
+streamlit==1.36.0
+pandas==2.2.2
+plotly==5.22.0
+
+# AG-Grid untuk Streamlit (versi stabil)
+streamlit-aggrid==0.3.4.post3
+
+# Excel reader
+openpyxl==3.1.2
+
+# Untuk mencegah error lingkungan
+numpy==1.26.4
+pyarrow==16.1.0
